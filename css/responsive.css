@@ -1,0 +1,506 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+.title {
+    padding: 15px 0px;
+}
+.title h2 {
+    font-size: 45px;
+}
+.title_two {
+	padding-right: 0px;
+}
+.title_two h2 {
+    font-size: 30px;
+}
+.nav_bis{
+	display: none !important;
+}
+.navbar-brand{
+    text-align: left;
+}
+.icon_links {
+    margin-top: 85px;
+}
+#header_bannner {
+    height: auto;
+    padding-bottom: 10px;
+}
+.header_icon {
+    margin-top: 25px;
+}
+.header_description h1 {
+    font-size: 40px;
+    margin: 45px 139px 0px 0px;
+}
+.header_contact {
+    transform: rotate(0deg);
+    min-height: 65px;
+}
+.header_contact p {
+    transform: rotate(0deg);
+    margin-top: 15px;
+    color: 
+    #fff;
+    bottom: 0;
+    display: inline-block;
+    margin-left: 12px;
+}
+.owl-nav {
+    margin-top: -50px !important;
+}
+#About {
+	height: auto;
+}
+.serve_descriptions {
+    text-align: center;
+    height: 80%;
+}
+.serve_description {
+    padding: 10px 0px;
+}
+.serve_description h1 {
+    font-size: 30px;
+}
+.serve_description p {
+    font-size: 14px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+}
+.serve_image::before {
+    top: 10px;
+    left: 168px;
+}
+.serve_image::after {
+    bottom: 185px;
+    left: 88px;
+}
+.serve_image img {
+    width: 280px;
+}
+#Our_Coffee {
+    padding: 30px 0px;
+}
+.title_des h2 {
+    font-size: 45px;
+}
+.title_des p {
+    padding: 0px;
+    font-size: 11px;
+}
+.about_text {
+    padding: 25px 0px;
+    text-align: center;
+}
+.about_text p {
+    padding-bottom: 5px;
+    margin: 0;
+    font-size: 13px;
+}
+.Choice_inputs {
+	padding: 50px 0px;
+    text-align: center;
+}
+#flavours {
+    padding-top: 40px;
+}
+.title_description {
+    margin-top: 65px;
+}
+.item_image img {
+    width: 85px;
+}
+.item_texts h2 {
+    font-size: 16px;
+}
+.item_texts p {
+    font-size: 10px;
+}
+.customer_pic {
+    margin-top: 15px;
+}
+#Blogs {
+    padding: 40px 0px;
+}
+.footer_logo{
+	text-align: center;
+}
+.social_links {
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.footer_input p{
+	text-align: center;
+}
+.footer_menu {
+	text-align: center;
+}
+#input_footer_icon {
+    left: 380px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.title {
+    padding: 15px 0px;
+}
+.title h2 {
+    font-size: 45px;
+}
+.title_two {
+	padding-right: 0px;
+}
+.title_two h2 {
+    font-size: 30px;
+    padding-left: 90px;
+}
+.nav_bis{
+	display: none !important;
+}
+.navbar-brand {
+    text-align: left;
+    margin-left: 155px;
+}
+.icon_links {
+    margin-top: 85px;
+}
+#header_bannner {
+    height: auto;
+    padding-bottom: 10px;
+}
+.header_icon {
+    margin-top: 25px;
+}
+.header_description h1 {
+    font-size: 40px;
+    margin: 45px 139px 0px 0px;
+}
+.header_contact {
+    transform: rotate(0deg);
+    min-height: 65px;
+    text-align: center;
+}
+.header_contact p {
+    transform: rotate(0deg);
+    margin-top: 15px;
+    color: 
+    #fff;
+    bottom: 0;
+    display: inline-block;
+    margin-left: 12px;
+}
+.owl-nav {
+    margin-top: -50px !important;
+}
+#About {
+	height: auto;
+}
+.serve_descriptions {
+    text-align: center;
+    height: 80%;
+}
+.serve_description {
+    padding: 10px 0px;
+}
+.serve_description h1 {
+    font-size: 40px;
+}
+.serve_description p {
+    font-size: 16px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+}
+.serve_image::before {
+    top: 60px;
+    left: 190px;
+    width: 245px;
+    height: 245px;
+}
+.serve_image::after {
+    bottom: 79px;
+    left: 109px;
+}
+.serve_image {
+    min-height: 295px;
+}
+.serve_image img {
+    width: 280px;
+}
+#Our_Coffee {
+    padding: 30px 0px;
+}
+.title_des h2 {
+    font-size: 45px;
+}
+.title_des p {
+    padding: 0px;
+    font-size: 11px;
+}
+.about_text {
+    padding: 25px 0px;
+    text-align: center;
+}
+.about_text p {
+    padding-bottom: 20px;
+    margin: 0;
+    font-size: 14px;
+}
+.Choice_inputs {
+	padding: 50px 0px;
+    text-align: center;
+}
+#flavours {
+    padding-top: 40px;
+}
+.title_description {
+    margin-top: 65px;
+}
+.item_image img {
+    width: 85px;
+}
+.item_texts h2 {
+    font-size: 16px;
+}
+.item_texts p {
+    font-size: 10px;
+}
+.customer_pic {
+    margin-top: 15px;
+}
+#Blogs {
+    padding: 40px 0px;
+}
+.footer_logo{
+	text-align: center;
+}
+.social_links {
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.footer_input p{
+	text-align: center;
+}
+.footer_menu {
+	text-align: center;
+}
+#input_footer_icon {
+    left: 488px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.title {
+    padding: 15px 0px;
+}
+.title h2 {
+    font-size: 45px;
+}
+.title_two {
+    text-align: left;
+    padding-right: 210px;
+}
+.title_two h2 {
+    font-size: 50px;
+    padding-left: 90px;
+}
+.nav_bis{
+	display: none !important;
+}
+.navbar-brand{
+    text-align: center;
+}
+.navbar-brand img{
+    width: 55% !important;
+}
+.nav-item{
+	font-size: 14px;
+}
+.nav-link {
+    padding-left: 8px !important;
+}
+.icon_links {
+    margin-top: 85px;
+}
+#header_bannner {
+    height: auto;
+    padding-bottom: 10px;
+}
+.header_description {
+	margin-top: 0px;
+}
+.header_icon {
+    margin-top: 25px;
+}
+.header_description h1 {
+    font-size: 62px;
+    margin: 45px 95px 0px 0px;
+}
+.header_contact {
+    transform: rotate(0deg);
+    min-height: 65px;
+    text-align: center;
+}
+.header_contact p {
+    transform: rotate(0deg);
+    margin-top: 15px;
+    color: 
+    #fff;
+    bottom: 0;
+    display: inline-block;
+    margin-left: 12px;
+}
+.owl-nav {
+    margin-top: -50px !important;
+}
+#About {
+	height: auto;
+}
+.serve_description {
+    padding: 10px 0px;
+}
+.sliders_description img {
+    width: 95%;
+}
+.sliders_text h2 {
+    font-size: 22px;
+}
+.sliders_text p {
+    font-size: 14px;
+}
+.serve_description h1 {
+    font-size: 40px;
+}
+.serve_description p {
+    font-size: 16px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+}
+.serve_image::before {
+	top: 63px;
+	left: 80px;
+	width: 245px;
+	height: 245px;
+}
+.serve_image::after {
+	bottom: 87px;
+	left: 0px;
+}
+.serve_image {
+    min-height: 295px;
+}
+.serve_image img {
+    width: 280px;
+}
+#Our_Coffee {
+    padding: 30px 0px;
+}
+.title_des h2 {
+    font-size: 55px;
+}
+.title_des p {
+    padding: 0px;
+    font-size: 14px;
+}
+.about_image{
+	text-align: center;
+}
+.about_image img {
+    width: 66%;
+}
+.about_text {
+    padding: 25px 0px;
+    text-align: center;
+}
+.about_text p {
+    padding-bottom: 25px;
+    margin: 0;
+    font-size: 16px;
+}
+.Choice_inputs {
+	padding: 50px 0px;
+    text-align: center;
+}
+#flavours {
+    padding-top: 40px;
+}
+.title_description {
+    margin-top: 65px;
+}
+.title_description::before {
+    top: -22px;
+}
+.item_image img {
+    width: 85px;
+}
+.item_texts h2 {
+    font-size: 16px;
+}
+.item_texts p {
+    font-size: 10px;
+}
+.customer_pic {
+    margin-top: 15px;
+}
+#Blogs {
+    padding: 40px 0px;
+}
+.blog_bgimage {
+    min-height: 462px;
+}
+.space {
+    min-height: 188px;
+}
+.Blog_content {
+    min-height: 330px;
+}
+.Blog_content p {
+    font-size: 14px;
+}
+.link{
+	font-size: 12px;
+}
+.footer_logo img {
+    width: 150px;
+}
+.social_links {
+    width: 155px;
+}
+.footer_menu li a {
+    font-size: 14px;
+}
+.footer_input p{
+	font-size: 14px;
+}
+#input_footer_icon {
+    left: 189px;
+    top: 41px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1279.98px) {
+	
+.nav-item{
+	font-size: 17px;
+}
+.nav-link {
+    padding-left: 8px !important;
+}
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1280px) and (max-width: 1399px) {}
